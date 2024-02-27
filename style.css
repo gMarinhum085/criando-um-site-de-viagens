@@ -16,6 +16,7 @@ img{
 
 h2{
   color: black;
+  border: 5px solid darkgoldenrod;
   background-color: goldenrod;
   border-radius:7px;
   width: 800px;
